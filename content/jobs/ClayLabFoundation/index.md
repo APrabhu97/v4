@@ -1,7 +1,7 @@
 ---
 date: '2021-05-31'
 title: 'Mentor'
-company: 'Clay Lab Foundation'
+company: 'Clay Lab'
 location: 'Gurgaon, India'
 range: 'November 2020 - May 2021'
 url: 'https://claylab.education/'
