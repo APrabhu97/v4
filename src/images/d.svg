@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="logo"
+   role="img"
+   viewBox="0 0 84 96"
+   version="1.1"
+   sodipodi:docname="d.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs41492" />
+  <sodipodi:namedview
+     id="namedview41490"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.0208333"
+     inkscape:cx="41.953247"
+     inkscape:cy="48"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="logo" />
+  <title
+     id="title41480">Logo</title>
+  <g
+     transform="translate(-7.1272726,1.7402597)"
+     id="g41487">
+    <g
+       transform="translate(11,5)"
+       id="g41485">
+      <path
+         d="m 45.691667,45.15 c 2.9,0.95 5,3.8 5,7.05 0,5.75 -4,8.8 -10.4,8.8 h -11.75 V 30.3 h 10.75 c 6.4,0 10.4,2.85 10.4,8.35 0,3.3 -1.75,5.7 -4,6.5 z m -12.1,-1.95 h 5.65 c 3.55,0 5.45,-1.35 5.45,-4.25 0,-2.9 -1.9,-4.15 -5.45,-4.15 h -5.65 z m 0,4.3 v 9 h 6.6 c 3.5,0 5.4,-1.75 5.4,-4.5 0,-2.8 -1.9,-4.5 -5.4,-4.5 z"
+         fill="#64ffda"
+         id="path41482" />
+      <polygon
+         id="Shape"
+         stroke="#64ffda"
+         strokeWidth="5"
+         strokeLinecap="round"
+         strokeLinejoin="round"
+         points="39,90 78,68 78,23 39,0 0,22 0,67 " />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:15.606;fill:#00ffff;fill-opacity:1;stroke:none"
+     x="35.781818"
+     y="40.27013"
+     id="text44026"><tspan
+       x="35.781818"
+       y="40.27013"
+       id="tspan70645">A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none"
+     x="31.044155"
+     y="71.064934"
+     id="text57988"><tspan
+       sodipodi:role="line"
+       id="tspan57986"
+       x="31.044155"
+       y="71.064934" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:56.5027px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.41257"
+     x="24.673817"
+     y="66.054359"
+     id="text67044"
+     transform="scale(0.96270932,1.0387351)"><tspan
+       sodipodi:role="line"
+       id="tspan67042"
+       x="24.673817"
+       y="66.054359"
+       style="stroke-width:1.41257">A</tspan></text>
+  <metadata
+     id="metadata70628">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

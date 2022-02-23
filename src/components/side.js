@@ -8,7 +8,7 @@ import { usePrefersReducedMotion } from '@hooks';
 const StyledSideElement = styled.div`
   width: 40px;
   position: fixed;
-  bottom: 0;
+  top: 100px;
   left: ${props => (props.orientation === 'left' ? '40px' : 'auto')};
   right: ${props => (props.orientation === 'left' ? 'auto' : '40px')};
   z-index: 10;
