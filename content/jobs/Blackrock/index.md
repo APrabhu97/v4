@@ -10,4 +10,3 @@ url: 'https://www.blackrock.com/aladdin/products/aladdin-accounting'
 - Worked on 3 web applications and 6 servers in a micro-service architecture to cumulatively create a product called Aladdin Accounting Portal. It served as a one-stop shop for all the accounting needs of a client.
 - Implemented web applications using Angular for frontend and App Servers using Spring Boot Java for Backend.
 - Migrated RESTful APIs to use Google’s gRPC to increase performance and speed by over 7 times.
-- Performed revision of existing programs to resolve critical bugs, increase efficiency or adapt to new requirements. Increased code efficiency by 30% by implementing design patterns and adding code coverage.
